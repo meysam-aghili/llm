@@ -1,0 +1,2 @@
+FROM focker.ir/ollama/ollama:latest
+COPY ./AVA/quantized /usr/app/quantized

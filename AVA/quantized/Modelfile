@@ -1,0 +1,2 @@
+FROM llmconvquantized.gguf
+TEMPLATE "[INST] {{ .Prompt }} [/INST]"

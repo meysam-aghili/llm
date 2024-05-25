@@ -1,0 +1,11 @@
+.pio
+.vscode
+.pio
+
+llmconv.gguf
+AVA/AVA_repo
+.venv
+ollama
+*.gguf
+
+ollama
